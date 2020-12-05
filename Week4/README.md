@@ -16,4 +16,4 @@ Following data sources will be used to fulfill this project target:
 
 **Restaurant List**: Using the [Foursquare API](https://developer.foursquare.com), we will fetch detailed information about the restaurants in Istanbul. 
 
-By using both data sources, we will collect the restaurants in the districts. After that, we will provide the distribution and density of the restaurant types.
+By using all three data sources, we will collect the restaurants in the districts. After that, we will provide the distribution and density of the restaurant types.
